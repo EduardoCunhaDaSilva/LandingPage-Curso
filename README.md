@@ -6,7 +6,7 @@ Acesse a página: [🚀 Minha Landing Page](https://eduardocunhadasilva.github.i
 
 ## ✨ Sobre
 
-Esta é uma **landing page de consulta terapêutica** desenvolvida para um amigo.
+Esta é uma **landing page de consulta terapêutica** desenvolvida para um cliente.
 A página foi criada com foco em **simplicidade e usabilidade** e inclui seções essenciais para apresentar serviços e informações de contato.
 
 Foi construída utilizando **HTML**, **CSS** e **JavaScript**, garantindo **design moderno e responsivo**.
