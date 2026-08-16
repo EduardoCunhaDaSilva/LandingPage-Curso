@@ -2,7 +2,7 @@
 
 # 🌐 Landing Page - Diego Sousa
 
-Acesse a página: [🚀 Minha Landing Page](https://eduardocunhadasilva.github.io/web-landing-page/)
+Acesse a página: [🚀 Minha Landing Page](https://eduardocunhadasilva.github.io/LandingPage-Curso/)
 
 ## ✨ Sobre
 
